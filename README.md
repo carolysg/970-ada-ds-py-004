@@ -6,3 +6,6 @@
 
 - Calculadora
 - Projeto Final
+
+### Descrição:
+Projetos desenvolvidos durante o módulo.
