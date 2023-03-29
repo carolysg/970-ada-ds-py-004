@@ -7,7 +7,7 @@
 - Calculadora
 - Projeto Final
 
-### Descrição:
-Projetos desenvolvidos durante o módulo.
+### Descrição: Calculadora
+O projeto calculadora foi criado exclusivamente para testar os comandos (aprendidos em aula) relacionados ao Git/Github.
 
-### Outra descrição
+### Descrição: Projeto Final
