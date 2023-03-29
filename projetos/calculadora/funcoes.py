@@ -6,6 +6,14 @@ def soma(a, b):
     except:
         return f"O input 'a' e 'b' devem ser int ou float, recebido {a} tipo {type(a)}, {b} tipo {type(b)}."
 
+"""
+def soma(a,b):
+    if isinstance(a, (int,float)) and isinstance(b, (int,float)):
+        return a + b
+    else:
+        raise TypeError(f"O input 'a' e 'b' devem ser int ou float, recebido {a} tipo {type(a)}, {b} tipo {type(b)}.")
+"""
+
 def subtracao(a, b):
     try:
         a = float(a)
