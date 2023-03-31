@@ -10,6 +10,7 @@
 ### Descrição: Calculadora
 O projeto calculadora foi criado exclusivamente para testar os comandos (aprendidos em aula) relacionados ao Git/Github.
 Para executar a calculadora, execute o comando na past raiz do projeto.
-`python3 ./projetos/calculadora/app.py´
+
+python3 ./projetos/calculadora/app.py
 
 ### Descrição: Projeto Final
